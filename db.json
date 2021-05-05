@@ -1,0 +1,15 @@
+{
+    "bikeTours": 
+    [
+        {
+            "id": 0,
+            "title": "Package PRO",
+            "description": "This is the forst of many packages",
+            "imageURL": "",
+            "price": 150,
+            "guide": "NO",
+            "coach": "NO",
+            "tags": ["#cycling", "#tours", "#bikes"]
+        }
+    ]
+}
