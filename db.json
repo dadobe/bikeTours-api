@@ -3,13 +3,63 @@
     [
         {
             "id": 0,
-            "title": "Package PRO",
-            "description": "This is the forst of many packages",
-            "imageURL": "",
-            "price": 150,
-            "guide": "NO",
+            "title": "Girona bike rides - STANDARD package",
+            "description": "The optimal package for enjoying cycling in Girona using PRO services",
+            "imageURL": "https://gironaprosport.com/wp-content/uploads/hlavna-360x360.jpg",
+            "price": 516,
+            "guide": "Yes",
             "coach": "NO",
-            "tags": ["#cycling", "#tours", "#bikes"]
+            "bycicleRental": "Yes",
+            "availability": "Throughout the year",
+            "tags": ["#cycling", "#tours", "#bikes"],
+            "type": "Road cycling bike bike tours packages tours Girona",
+            "duration": "4/7",
+            "routeMap": ""
+        },
+        {
+            "id": 1,
+            "title": "Costa Brava + Girona with children 3 days",
+            "description": "A short family trip suitable for children from 10 years, enjoy cycling without traffic with the whole family",
+            "imageURL": "https://gironaprosport.com/wp-content/uploads/hlavna-7-360x360.jpg",
+            "price": 545,
+            "guide": "Yes",
+            "coach": "NO",
+            "bycicleRental": "Yes",
+            "availability": "Throughout the year",
+            "tags": ["#cycling", "#tours", "#bikes", "mountainbiking", "#kids"],
+            "type": "Cycling Mountain bike / gravel / cyclocross with children",
+            "duration": "3",
+            "routeMap": "https://gironaprosport.com/wp-content/uploads/mapa-2.png"
+        },
+        {
+            "id": 2,
+            "title": "Discovering hidden corners of the Costa Brava",
+            "description": "A combination of slow and comfortable hiking (or easier running) with moments of relaxation on one of the most beautiful Mediterranean beaches.",
+            "imageURL": "https://gironaprosport.com/wp-content/uploads/hlavna-360x360.jpg",
+            "price": 760,
+            "guide": "No",
+            "coach": "NO",
+            "bycicleRental": "No",
+            "availability": "1st March to 31st October",
+            "tags": ["#running", "#hiking"],
+            "type": "Road cycling / cycling / biking",
+            "duration": "7",
+            "routeMap": "https://gironaprosport.com/wp-content/uploads/mapa-4.png"
+        },
+        {
+            "id": 3,
+            "title": "Trans - Pyrenean challenge",
+            "description": "This is the forst of many packages",
+            "imageURL": "https://gironaprosport.com/wp-content/uploads/hlavna-360x360.jpg",
+            "price": 2699,
+            "guide": "Yes",
+            "coach": "NO",
+            "bycicleRental": "No",
+            "availability": "1st March to 1st November",
+            "tags": ["#running", "#hiking", "Girona", "Pyrenean"],
+            "type": "Cycling Mountain bike / hiking / biking",
+            "duration": "7",
+            "routeMap": "https://gironaprosport.com/wp-content/uploads/trasa-Trans-Pyrenejska-vyzva.jpg"
         }
     ]
 }
